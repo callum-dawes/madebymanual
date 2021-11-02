@@ -1,8 +1,0 @@
-@font-face {
-  font-family: 'satoshi';
-  src: url('https://cdn.jsdelivr.net/gh/callum-dawes/madebymanual@main/Satoshi-Regular.woff2') format('woff2'),
-       url('https://cdn.jsdelivr.net/gh/callum-dawes/madebymanual@main/Satoshi-Regular.woff') format('woff'),
-       url('https://cdn.jsdelivr.net/gh/callum-dawes/madebymanual@main/Satoshi-Regular.ttf') format('truetype');
-  font-weight: 400;
-  font-style: normal;
-}
